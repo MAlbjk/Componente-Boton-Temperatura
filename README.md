@@ -63,11 +63,35 @@ Estas propiedades pueden configurarse desde el código **o** desde el editor vis
 
 ---
 
+## 🔩 Componentes asociados
+
+Para funcionar correctamente, el botón necesita estar vinculado a los siguientes componentes visuales externos, los cuales se pueden configurar desde el diseñador de NetBeans o por código:
+
+- **Campos de entrada**:
+  - `JTextField txtCelsius`
+  - `JTextField txtFahrenheit`
+  - `JTextField txtKelvin`
+
+- **Etiquetas de salida**:
+  - `JLabel lblResultadoCelsius`
+  - `JLabel lblResultadoFahrenheit`
+  - `JLabel lblResultadoKelvin`
+
+Estos se asocian con métodos como:
+
+```java
+boton.setTxtCelsius(txtCelsius);
+boton.setLblResultadoFahrenheit(lblFahrenheit);
+boton.setLblResultadoKelvin(lblKelvin);
+
+---
 ## 👥 Elaborado por:
 Monterrubio Diaz Luis Mario
 
-Santiago Espinoza Sócrates Emiliano
+Santiago Espinosa Sócrates Emiliano
 
-##🎥 Video Explicativo
+---
+## 🎥 Video explicativo
 https://www.youtube.com/watch?v=G33EfL2O_4g
+
 

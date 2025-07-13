@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"BotonDeTemperaturas","l":"BotonTemperatura"},{"p":"BotonDeTemperaturas","l":"BotonTemperaturaInfo"},{"p":"BotonDeTemperaturas","l":"ModoEditor"}];updateSearchResults();

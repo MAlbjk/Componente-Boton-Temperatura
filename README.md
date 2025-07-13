@@ -60,3 +60,12 @@ Estas propiedades pueden configurarse desde el código **o** desde el editor vis
 ##public void resetCampos()
 ##public void setModoConversion(String modo)
 ##public void setUsarColor(boolean activo)
+
+## 👥 Elaborado por:
+Monterrubio Diaz Luis Mario
+
+Santiago Espinoza Sócrates Emiliano
+
+##🎥 Video Explicativo
+https://www.youtube.com/watch?v=G33EfL2O_4g
+

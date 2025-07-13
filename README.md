@@ -61,6 +61,8 @@ Estas propiedades pueden configurarse desde el código **o** desde el editor vis
 ##public void setModoConversion(String modo)
 ##public void setUsarColor(boolean activo)
 
+---
+
 ## 👥 Elaborado por:
 Monterrubio Diaz Luis Mario
 

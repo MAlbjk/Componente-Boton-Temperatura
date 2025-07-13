@@ -95,3 +95,18 @@ Santiago Espinosa Sócrates Emiliano
 https://www.youtube.com/watch?v=G33EfL2O_4g
 
 
+
+---
+
+## 👥 Créditos
+
+**Equipo 14**
+
+```text
+Monterrubio Diaz Luis Mario
+Santiago Espinoza Sócrates Emiliano
+
+
+
+
+

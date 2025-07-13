@@ -31,7 +31,7 @@ Este proyecto presenta un **componente gráfico reutilizable y visualmente confi
 
 | Herramienta       | Uso principal                                        |
 |-------------------|------------------------------------------------------|
-| Java SE 17        | Lógica del componente y programación OOP             |
+| Java SE 17        | Lógica del componente y programación POO             |
 | Swing (JavaBeans) | Diseño de interfaces gráficas                        |
 | NetBeans 25       | Desarrollo y construcción del `.jar`                 |
 | PropertyEditor    | Configuración visual desde el editor                 |
